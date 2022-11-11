@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **aarav8090shukla@gmail.com**
 
-- ⚡ Fun fact **I think Development is all about forgetting DSA.**
+- ⚡ Fun fact **I think Development is all about forgetting DSA!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
