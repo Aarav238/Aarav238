@@ -10,7 +10,7 @@
 <a href="https://dev.to/aarav238" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="aarav238" height="30" width="40" /></a>
 <a href="https://twitter.com/aarav_shuklaa" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="aaravshukla08" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aarav-shukla-ba5851214" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="https://www.linkedin.com/in/aarav-shukla-ba5851214" height="30" width="40" /></a>
-<a href="https://instagram.com/aarav_shukla_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aarav_shukla_" height="30" width="40" /></a>
+<a href="https://instagram.com/aarav_shukla_" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" alt="aarav_shukla_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
