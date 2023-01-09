@@ -35,3 +35,5 @@
 
 
 [![@aarav's Holopin board](https://holopin.me/aarav)](https://holopin.io/@aarav)
+---
+[![](https://visitcount.itsvg.in/api?id=Aarav238&icon=0&color=1)](https://visitcount.itsvg.in)
