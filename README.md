@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Generative AI and DevOps.<br>👯 I’m looking to collaborate on Full Stack projects.<br>🌱 I’m currently learning Kubernetes and Langchain.<br>💬 Ask me about LLMs, React , Node , Express and Langchain <br>⚡ Fun fact Errors Makes you a Better Developer.
+🔭 I’m currently working on Generative AI and DevOps.<br>👯 I’m looking to collaborate on Full Stack projects.<br>🌱 I’m currently learning Kubernetes and Langchain.<br>💬 Ask me about LLMs, React , Node , Express and Langchain <br>⚡ **Fun fact**: Errors Makes you a Better Developer.
 
 
 ## 🌐 Socials:
